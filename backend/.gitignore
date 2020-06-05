@@ -1,0 +1,4 @@
+#ignore package folders
+/node_modules/*
+src/database/database.sqlite
+
